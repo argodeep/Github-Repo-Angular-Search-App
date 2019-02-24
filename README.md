@@ -1,4 +1,4 @@
-# Github Serarch App 
+# Github Search App 
 
 A simple application that lists all the GitHub repositories of a given user / organization with Angular
 
