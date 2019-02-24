@@ -1,5 +1,7 @@
 # Github
 
+A simple application that lists all the GitHub repositories of a given user / organization with Angular
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 7.3.3.
 
 ## Development server
