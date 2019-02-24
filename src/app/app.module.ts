@@ -11,6 +11,7 @@ import { OrganisationComponent } from './organisation/organisation.component';
 import { RepositoryComponent } from './repository/repository.component';
 import { TruncatePipe } from './truncate.pipe';
 
+
 @NgModule({
   declarations: [
     AppComponent,

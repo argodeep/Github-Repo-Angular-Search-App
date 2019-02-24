@@ -10,7 +10,7 @@ import { UserComponent} from '../user/user.component';
   export class RepositoryComponent implements OnInit {
 
   	@Input() passData;
-	arrayData;
+	          arrayData;
 
  constructor() {
  }
@@ -21,7 +21,6 @@ import { UserComponent} from '../user/user.component';
  ngOnChanges(changes: SimpleChanges) {
     if (changes['passData']) {
 		this.arrayData = this.passData;
-	    console.log(this.arrayData)
 	}
   }
 }
